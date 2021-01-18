@@ -118,6 +118,7 @@ body {
     margin-bottom: 60px;
 }
 
+
 p {
     font-family: 'Nunito', sans-serif;
 }
@@ -141,9 +142,9 @@ ul {
 /*Backgrounds*/
 .bg-navbar {
     background: -webkit-linear-gradient(110deg, #e9a8a6 60%, #252152 60%);
-    background: -o-linear-gradient(110deg, #e9a8a6 60%, #252152 60%);
+    background: -o-linear-gradient(110deg, orange 60%, #252152 60%);
     background: -moz-linear-gradient(110deg, #e9a8a6 60%, #252152 60%);
-    background: linear-gradient(110deg, #e9a8a6 60%, #252152 60%);
+    background: linear-gradient(110deg, orange 60%, #252152 60%);
 }
 
 .bg-footer {
